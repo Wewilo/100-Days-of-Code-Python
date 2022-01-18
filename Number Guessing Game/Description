@@ -1,0 +1,3 @@
+I created simple number guessing game using python.You can select easy and hard level and you will have 5 life for hard and 10 life for easy level.
+
+if your guess is close to the number.Program outputs "go up or go down" depends on where the your guess is.
