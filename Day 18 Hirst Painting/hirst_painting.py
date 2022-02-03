@@ -4,7 +4,7 @@ import random
 
 turt = t.Turtle()
 turt_screen = Screen()
-turt_screen.setup(width=550,height=550)
+turt_screen.setup(width=600,height=600)
 t.colormode(255)
 color_list = [(250, 249, 249), (207, 165, 165), (164, 169, 169), (140, 48, 48), (244, 79, 79), (3, 144, 144), (241, 66, 66), (249, 220, 220), (2, 142, 142), (162, 55, 55)]
 turt.speed(10)
